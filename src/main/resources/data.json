@@ -1,0 +1,59 @@
+[
+  {
+    "question": {
+      "q": "Do you enjoy working in a team?",
+      "answers":[
+        {
+          "answer": "Teamwork is in my blood",
+          "points": "5"
+        },
+        {
+          "answer": "Yes, I do",
+          "points": "3"
+        },
+        {
+          "answer": "I prefer to work alone",
+          "points": "0"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "q": "How long have you been working with Java?",
+      "answers":[
+        {
+          "answer": "Never",
+          "points": "0"
+        },
+        {
+          "answer": "Less than 1 year",
+          "points": "1"
+        },
+        {
+          "answer": "Less than 2 years",
+          "points": "3"
+        },
+        {
+          "answer": "More than 3 years",
+          "points": "5"
+        }
+      ]
+    }
+  },
+  {
+    "question": {
+      "q": "How do you feel about automated tests?",
+      "answers":[
+        {
+          "answer": "Mandatory",
+          "points": "3"
+        },
+        {
+          "answer": "Waste of time",
+          "points": "0"
+        }
+      ]
+    }
+  }
+]
